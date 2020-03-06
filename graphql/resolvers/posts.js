@@ -24,10 +24,7 @@ module.exports = {
         }catch(err){
           throw new Error(err);
         }
-
-
     }
-
   },
 
   Mutation:{
@@ -62,8 +59,9 @@ module.exports = {
           throw new AuthenticationError(err);
         }
 
+    },
 
-    }
+  
 
   }
 
