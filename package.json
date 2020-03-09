@@ -1,7 +1,6 @@
 {
-  "name": "MEARNG",
+  "name": "mearng",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -19,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkr2/mearng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kkr2/mearng/issues"
+  },
+  "homepage": "https://github.com/kkr2/mearng#readme",
+  "description": ""
 }
